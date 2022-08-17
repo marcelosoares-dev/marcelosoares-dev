@@ -28,4 +28,4 @@
 
 ##
 
-<img src="https://github.com/marcelosoares-dev/MarceloSoares/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width:100%;">
+<img src="https://github.com/marcelosoares-dev/marcelosoares-dev/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width:100%;">
