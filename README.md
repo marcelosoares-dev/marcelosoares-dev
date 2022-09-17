@@ -19,6 +19,8 @@
   <img align="center" alt="Marcelo-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="max-width:100%;">
   
   <img align="center" alt="Marcelo-Javascript" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" style="max-width:100%;">
+  
+  <img align="center" alt="Marcelo-Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"  style="max-width:100%;">
 
   <img align="center" alt="Marcelo-Node" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" style="max-width:100%;">
 
