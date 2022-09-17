@@ -26,7 +26,7 @@
 
   <img align="center" alt="Marcelo-Ruby" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" style="max-width:100%;">
   
-  <img align="center" alt="Marcelo-Swift" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original-wordmark.svg" style="max-width:100%;">
+  <img align="center" alt="Marcelo-Swift" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" style="max-width:100%;">
 
   <img align="center" alt="Marcelo-React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" style="max-width:100%;">
   
