@@ -11,9 +11,9 @@
   
   <img align="center" alt="Marcelo-React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" style="max-width:100%;">
 
-  <img align="center" alt="Marcelo-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" style="max-width:100%;">
+  <img align="center" alt="Marcelo-tailwindcss" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" style="max-width:100%;">
   
-  
+  <img align="center" alt="Marcelo-TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="max-width:100%;">
   
   <img align="center" alt="Marcelo-Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"  style="max-width:100%;">
 
@@ -23,7 +23,7 @@
   
   <img align="center" alt="Marcelo-Swift" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" style="max-width:100%;">
   
-  <img align="center" alt="Marcelo-TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="max-width:100%;">
+  
 
 ##
 
