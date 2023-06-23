@@ -14,14 +14,12 @@
   <img align="center" alt="Marcelo-tailwindcss" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" style="max-width:100%;">
   
   <img align="center" alt="Marcelo-TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="max-width:100%;">
-  
-  <img align="center" alt="Marcelo-Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"  style="max-width:100%;">
 
   <img align="center" alt="Marcelo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="max-width:100%;">
 
   <img align="center" alt="Marcelo-Ruby" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" style="max-width:100%;">
   
-  <img align="center" alt="Marcelo-Swift" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" style="max-width:100%;">
+  <img align="center" alt="Marcelo-PHP" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" style="max-width:100%;">
   
   
 
