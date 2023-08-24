@@ -7,7 +7,7 @@
 
 <div><br>
 
- <img align="center" alt="Marcelo-Javascript" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg](https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg)" style="max-width:100%;">
+  <img align="center" alt="Marcelo-Javascript" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg" style="max-width:100%;">
 
  <img align="center" alt="Marcelo-Javascript" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" style="max-width:100%;">
   
