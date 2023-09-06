@@ -11,6 +11,8 @@
 
  <img align="center" alt="Marcelo-Django" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" style="max-width:100%;">
 
+ <img align="center" alt="Marcelo-Go" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" style="max-width:100%;">
+
   <img align="center" alt="Marcelo-JavaScript" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" style="max-width:100%;">
 
  <img align="center" alt="Marcelo-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" style="max-width:100%;">
