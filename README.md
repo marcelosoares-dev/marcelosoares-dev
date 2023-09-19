@@ -11,6 +11,8 @@
 
   <img align="center" alt="Marcelo-Angular" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" style="max-width:100%;">
 
+<img align="center" alt="Marcelo-Dot-Net" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" style="max-width:100%;">
+
  <img align="center" alt="Marcelo-Go" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" style="max-width:100%;">
 
   <img align="center" alt="Marcelo-JavaScript" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" style="max-width:100%;">
