@@ -9,19 +9,27 @@
 
   <img align="center" alt="Marcelo-Angular" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" style="max-width:100%;">
 
-  <img align="center" alt="Marcelo-Angular" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" style="max-width:100%;">
-
-<img align="center" alt="Marcelo-Dot-Net" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" style="max-width:100%;">
-
- <img align="center" alt="Marcelo-Go" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" style="max-width:100%;">
+  <img align="center" alt="Marcelo-CSHARP" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" style="max-width:100%;">
 
   <img align="center" alt="Marcelo-JavaScript" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" style="max-width:100%;">
 
- <img align="center" alt="Marcelo-Kotlin" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" style="max-width:100%;">
+  <img align="center" alt="Marcelo-Kotlin" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" style="max-width:100%;">
 
- <img align="center" alt="Marcelo-Mongo" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" style="max-width:100%;">
+  <img align="center" alt="Marcelo-Mongo" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" style="max-width:100%;">
 
- <img align="center" alt="Marcelo-Node" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" style="max-width:100%;">
+<img align="center" alt="Marcelo-Dot-Net" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" style="max-width:100%;">
+
+<img align="center" alt="Marcelo-Node" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" style="max-width:100%;">
+
+ <img align="center" alt="Marcelo-postgresql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" style="max-width:100%;">
+
+  
+
+ 
+
+ 
+
+ 
 
   <img align="center" alt="Marcelo-Ruby" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" style="max-width:100%;">
 
