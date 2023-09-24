@@ -23,20 +23,12 @@
 
  <img align="center" alt="Marcelo-postgresql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" style="max-width:100%;">
 
-  
-
- 
-
- 
-
- 
+<img align="center" alt="Marcelo-React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" style="max-width:100%;">
 
   <img align="center" alt="Marcelo-Ruby" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" style="max-width:100%;">
 
-<img align="center" alt="Marcelo-React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" style="max-width:100%;">
-  
   <img align="center" alt="Marcelo-TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="max-width:100%;">
 
-
+<img align="center" alt="Marcelo-TypeScript" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" style="max-width:100%;">
   
 ##
