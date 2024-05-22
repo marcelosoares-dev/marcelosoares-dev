@@ -44,12 +44,10 @@
 
   <img align="center" alt="Marcelo-Vercel" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vercel/vercel-line.svg" style="max-width:100%;">
 
-<img align="center" alt="Marcelo-JavaScript" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" style="max-width:100%;">
-
-  
-
   <img align="center" alt="Marcelo-Vue" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" style="max-width:100%;">
 
-<img align="center" alt="Marcelo-Dot-Net" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" style="max-width:100%;">
+  <img align="center" alt="Marcelo-JavaScript" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" style="max-width:100%;">
+
+<img align="center" alt="Marcelo-Node" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" style="max-width:100%;">
   
 ##
