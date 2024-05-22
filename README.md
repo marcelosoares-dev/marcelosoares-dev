@@ -48,10 +48,12 @@
 
 <img align="center" alt="Marcelo-MUI" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" style="max-width:100%;">
 
-<img align="center" alt="Marcelo-Mysql" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" style="max-width:100%;">
+<img align="center" alt="Marcelo-Mongo" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" style="max-width:100%;">
 
 <br>
 <br>
+
+<img align="center" alt="Marcelo-Mysql" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" style="max-width:100%;">
 
 <img align="center" alt="Marcelo-Netlify" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netlify/netlify-original.svg" style="max-width:100%;">
 
@@ -73,7 +75,7 @@
 
 <img align="center" alt="Marcelo-Sass" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" style="max-width:100%;">
 
-<img align="center" alt="Marcelo-Tailwindcss" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" style="max-width:100%;">
+
 
 <img align="center" alt="Marcelo-Vercel" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vercel/vercel-line.svg" style="max-width:100%;">
 
@@ -82,7 +84,9 @@
 <br>
 <br>
 
-<img align="center" alt="Marcelo-Mongo" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" style="max-width:100%;">
+<img align="center" alt="Marcelo-Tailwindcss" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" style="max-width:100%;">
+
+
 
 
 
