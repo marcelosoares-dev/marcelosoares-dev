@@ -78,6 +78,7 @@
 
 <img align="center" alt="Marcelo-Tailwindcss" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" style="max-width:100%;">
 
+<img align="center" alt="Marcelo-TypeScript" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" style="max-width:100%;">
 
 <img align="center" alt="Marcelo-Vercel" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vercel/vercel-line.svg" style="max-width:100%;">
 
@@ -89,6 +90,6 @@
 
 
 
-<img align="center" alt="Marcelo-TypeScript" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" style="max-width:100%;">
+
 
 ##
