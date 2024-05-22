@@ -17,6 +17,8 @@
 
   <img align="center" alt="Marcelo-Flask" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" style="max-width:100%;">
 
+  <img align="center" alt="Marcelo-Flask" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" style="max-width:100%; filter: invert(100%);">
+
    <img align="center" alt="Marcelo-Heroku" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-plain.svg" style="max-width:100%;">
 
    <img align="center" alt="Marcelo-GitHub" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" style="max-width:100%;">
