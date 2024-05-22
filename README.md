@@ -15,7 +15,7 @@
 
   <img align="center" alt="Marcelo-Figma" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" style="max-width:100%;">
 
-  <img align="center" alt="Marcelo-CSHARP" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" style="max-width:100%;">
+  <img align="center" alt="Marcelo-Flask" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" style="max-width:100%;">
 
   <img align="center" alt="Marcelo-JavaScript" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" style="max-width:100%;">
 
