@@ -11,11 +11,17 @@
 
    <img align="center" alt="Marcelo-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" style="max-width:100%;">
 
+   <img align="center" alt="Marcelo-Bootstrap" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" style="max-width:100%;">
+
    <img align="center" alt="Marcelo-Codeigniter" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/codeigniter/codeigniter-plain.svg" style="max-width:100%;">
+
+   <img align="center" alt="Marcelo-Css" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" style="max-width:100%;">
+
+   <img align="center" alt="Marcelo-Django" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" style="max-width:100%;">
 
    <img align="center" alt="Marcelo-Docker" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" style="max-width:100%;">
 
-   <img align="center" alt="Marcelo-Django" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" style="max-width:100%;">
+   
 
   <img align="center" alt="Marcelo-Figma" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" style="max-width:100%;">
 
@@ -82,9 +88,9 @@
 
 <img align="center" alt="Marcelo-Sass" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" style="max-width:100%;">
 
-<img align="center" alt="Marcelo-Css" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" style="max-width:100%;">
 
-<img align="center" alt="Marcelo-Bootstrap" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" style="max-width:100%;">
+
+
 
 <img align="center" alt="Marcelo-TypeScript" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" style="max-width:100%;">
 
