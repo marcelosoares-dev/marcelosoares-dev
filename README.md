@@ -65,8 +65,6 @@
 
 <img align="center" alt="Marcelo-Postgres" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" style="max-width:100%;">
 
-
-
 <img align="center" alt="Marcelo-Python" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" style="max-width:100%;">
 
 <img align="center" alt="Marcelo-React" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" style="max-width:100%;">
@@ -75,6 +73,7 @@
 
 <img align="center" alt="Marcelo-Sass" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" style="max-width:100%;">
 
+<img align="center" alt="Marcelo-Tailwindcss" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" style="max-width:100%;">
 
 
 <img align="center" alt="Marcelo-Vercel" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vercel/vercel-line.svg" style="max-width:100%;">
@@ -84,7 +83,6 @@
 <br>
 <br>
 
-<img align="center" alt="Marcelo-Tailwindcss" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" style="max-width:100%;">
 
 
 
