@@ -50,7 +50,7 @@
 
 <img align="center" alt="Marcelo-Node" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" style="max-width:100%;">
 
-<img align="center" alt="Marcelo-Next" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" style="max-width:100%;">
+<img align="center" alt="Marcelo-Next" height="60" width="70" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" style="max-width:100%;">
 
 <br>
 <br>
