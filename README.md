@@ -9,7 +9,7 @@
 
   <img align="center" alt="Marcelo-Angular" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" style="max-width:100%;">
 
-   <img align="center" alt="Marcelo-AWS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" style="max-width:100%;">
+   <img align="center" alt="Marcelo-AWS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" style="max-width:100%;">
 
   <img align="center" alt="Marcelo-CSHARP" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" style="max-width:100%;">
 
