@@ -44,7 +44,7 @@
 
 <img align="center" alt="Marcelo-JavaScript" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" style="max-width:100%;">
 
-  
+  <img align="center" alt="Marcelo-Vercel" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vercel/vercel-line.svg" style="max-width:100%;">
 
   <img align="center" alt="Marcelo-Mongo" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" style="max-width:100%;">
 
