@@ -29,13 +29,17 @@
 
    <img align="center" alt="Marcelo-Heroku" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-plain.svg" style="max-width:100%;">
 
-   <img align="center" alt="Marcelo-GitHub" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" style="max-width:100%;">
-
-  <img align="center" alt="Marcelo-Graphql" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg" style="max-width:100%;">
-
+   
  
 <br>
 <br>
+
+<img align="center" alt="Marcelo-GitHub" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" style="max-width:100%;">
+
+<img align="center" alt="Marcelo-Graphql" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg" style="max-width:100%;">
+
+<img align="center" alt="Marcelo-HTML" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" style="max-width:100%;">
+
 
  <img align="center" alt="Marcelo-Kotlin" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" style="max-width:100%;">
 
@@ -48,7 +52,7 @@
 
 
 
-<img align="center" alt="Marcelo-HTML" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" style="max-width:100%;">
+
 
 <img align="center" alt="Marcelo-JEST" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" style="max-width:100%;">
 
