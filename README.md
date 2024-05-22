@@ -21,13 +21,7 @@
 
    <img align="center" alt="Marcelo-GitHub" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" style="max-width:100%;">
 
-  <img align="center" alt="Marcelo-JavaScript" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" style="max-width:100%;">
-
-  <img align="center" alt="Marcelo-Kotlin" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" style="max-width:100%;">
-
-  <img align="center" alt="Marcelo-Mongo" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" style="max-width:100%;">
-
-<img align="center" alt="Marcelo-Dot-Net" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" style="max-width:100%;">
+  <img align="center" alt="Marcelo-Graphql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg" style="max-width:100%;">
 
 <br>
 <br>
@@ -42,5 +36,12 @@
 
   <img align="center" alt="Marcelo-TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="max-width:100%;">
 
+<img align="center" alt="Marcelo-JavaScript" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" style="max-width:100%;">
+
+  <img align="center" alt="Marcelo-Kotlin" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" style="max-width:100%;">
+
+  <img align="center" alt="Marcelo-Mongo" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" style="max-width:100%;">
+
+<img align="center" alt="Marcelo-Dot-Net" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" style="max-width:100%;">
   
 ##
