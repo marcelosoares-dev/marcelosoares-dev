@@ -9,7 +9,10 @@
 
   <img align="center" alt="Marcelo-Angular" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" style="max-width:100%;">
 
-   <img align="center" alt="Marcelo-AWS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" style="max-width:100%;">
+   <img align="center" alt="Marcelo-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" style="max-width:100%;">
+
+  <img align="center" alt="Marcelo-AWS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" style="max-width:100%;">
+
 
    <img align="center" alt="Marcelo-Docker" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" style="max-width:100%;">
 
@@ -18,7 +21,7 @@
   <img align="center" alt="Marcelo-Flask" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" style="max-width:100%;">
 
   
-
+<img " />
 
 
 
