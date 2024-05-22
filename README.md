@@ -32,7 +32,7 @@
 <br>
 <br>
 
-<img align="center" alt="Marcelo-Node" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" style="max-width:100%;">
+<img align="center" alt="Marcelo-MUI" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" style="max-width:100%;">
 
  <img align="center" alt="Marcelo-postgresql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" style="max-width:100%;">
 
