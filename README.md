@@ -18,7 +18,26 @@
   <img align="center" alt="Marcelo-Flask" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" style="max-width:100%;">
 
   
-<img align="center" alt="GitHub Icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" style="max-width:100%; filter: invert(100%);">
+<div id="github-icon-container" align="center"></div>
+
+<script>
+  // Carrega o SVG externamente
+  fetch('https://github.com/devicons/devicon/raw/master/icons/github/github-original.svg')
+    .then(response => response.text())
+    .then(svgText => {
+      // Insere o SVG no container
+      document.getElementById('github-icon-container').innerHTML = svgText;
+      // Seleciona o SVG inserido
+      const svg = document.getElementById('github-icon-container').querySelector('svg');
+      // Ajusta o tamanho e alinhamento
+      svg.setAttribute('height', '30');
+      svg.setAttribute('width', '40');
+      svg.setAttribute('align', 'center');
+      // Altera a cor para branco
+      svg.querySelector('path').setAttribute('fill', 'white');
+    });
+</script>
+
 
 
    <img align="center" alt="Marcelo-Heroku" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-plain.svg" style="max-width:100%;">
