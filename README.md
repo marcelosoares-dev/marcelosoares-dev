@@ -71,5 +71,7 @@
 
 <img align="center" alt="Marcelo-Mongo" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" style="max-width:100%;">
 
+<img align="center" alt="Marcelo-Sass" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" style="max-width:100%;">
+
 
 ##
