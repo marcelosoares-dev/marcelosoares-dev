@@ -48,6 +48,6 @@
 
   <img align="center" alt="Marcelo-JavaScript" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" style="max-width:100%;">
 
-<img align="center" alt="Marcelo-Node" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" style="max-width:100%;">
+<img align="center" alt="Marcelo-Node" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" style="max-width:100%;">
   
 ##
