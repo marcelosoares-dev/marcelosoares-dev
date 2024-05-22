@@ -59,5 +59,7 @@
 
 <img align="center" alt="Marcelo-Postgres" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" style="max-width:100%;">
 
-<img align="center" alt="Marcelo-PHP" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" style="max-width:100%;">
+<img align="center" alt="Marcelo-PHP" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" style="max-width:100%;">
+
+
 ##
