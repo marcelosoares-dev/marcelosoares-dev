@@ -52,10 +52,12 @@
 
 <img align="center" alt="Marcelo-Next" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" style="max-width:100%;">
 
+<img align="center" alt="Marcelo-Netlify" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netlify/netlify-original.svg" style="max-width:100%;">
+
 <br>
 <br>
 
-<img align="center" alt="Marcelo-Netlify" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netlify/netlify-original.svg" style="max-width:100%;">
+
 
 <img align="center" alt="Marcelo-Postgres" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" style="max-width:100%;">
 
