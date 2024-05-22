@@ -61,5 +61,7 @@
 
 <img align="center" alt="Marcelo-PHP" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" style="max-width:100%;">
 
+<img align="center" alt="Marcelo-Python" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" style="max-width:100%;">
+
 
 ##
