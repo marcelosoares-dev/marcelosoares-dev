@@ -65,5 +65,7 @@
 
 <img align="center" alt="Marcelo-React" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" style="max-width:100%;">
 
+<img align="center" alt="Marcelo-Redux" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" style="max-width:100%;">
+
 
 ##
