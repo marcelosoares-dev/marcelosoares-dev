@@ -34,7 +34,7 @@
 
 <img align="center" alt="Marcelo-MUI" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" style="max-width:100%;">
 
- <img align="center" alt="Marcelo-postgresql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" style="max-width:100%;">
+ <img align="center" alt="Marcelo-Express" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" style="max-width:100%;">
 
 <img align="center" alt="Marcelo-React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" style="max-width:100%;">
 
