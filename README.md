@@ -27,7 +27,7 @@
 
   <img align="center" alt="Marcelo-Kotlin" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" style="max-width:100%;">
 
-  <img align="center" alt="Marcelo-Laravel" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" style="max-width:100%;">
+  <img align="center" alt="Marcelo-Laravel" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" style="max-width:100%;">
 
 <br>
 <br>
