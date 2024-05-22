@@ -13,7 +13,7 @@
 
    <img align="center" alt="Marcelo-Docker" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" style="max-width:100%;">
 
-   <img align="center" alt="Marcelo-Django" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" style="max-width:100%;">
+   <img align="center" alt="Marcelo-Django" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" style="max-width:100%;">
 
   <img align="center" alt="Marcelo-Figma" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" style="max-width:100%;">
 
