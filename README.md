@@ -59,11 +59,11 @@
 
 <img align="center" alt="Marcelo-Next" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" style="max-width:100%;">
 
-<img align="center" alt="Marcelo-Node" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" style="max-width:100%;">
+<img align="center" alt="Marcelo-Node" height="60" width="70" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" style="max-width:100%;">
 
 <img align="center" alt="Marcelo-PHP" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" style="max-width:100%;">
 
-<img align="center" alt="Marcelo-Postgres" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" style="max-width:100%;">
+<img align="center" alt="Marcelo-Postgres" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" style="max-width:100%;">
 
 <img align="center" alt="Marcelo-Python" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" style="max-width:100%;">
 
