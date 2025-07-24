@@ -76,6 +76,6 @@ Sou desenvolvedor full stack com foco em soluções escaláveis e interfaces mod
 
 ### 🌐 Onde me encontrar
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/marcelo-soares-dev/)
-- 🌎 [Portfólio](https://marcelo-soares.dev)
-- 📬 Email: marcelosoares@email.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/marcelosoares-dev/)
+- 🌎 [Portfólio](#)
+- 📬 Email: 
