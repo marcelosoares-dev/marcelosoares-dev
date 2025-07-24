@@ -65,15 +65,22 @@ Sou desenvolvedor full stack com foco em soluções escaláveis e interfaces mod
 
 ---
 
-### 📊 GitHub Stats
+<div style="display: flex; flex-wrap: wrap; gap: 30px; justify-content: space-between; align-items: flex-start;">
+  <!-- Seção GitHub Stats -->
+  <div style="flex: 1; min-width: 400px;">
+    ### 📊 GitHub Stats
+    
+    ![Marcelo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=marcelosoares-dev&show_icons=true&theme=radical)
+    
+    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelosoares-dev&layout=compact&theme=radical)
+  </div>
 
-![Marcelo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=marcelosoares-dev&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelosoares-dev&layout=compact&theme=radical)
-
----
-
-### 🌐 Onde me encontrar
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/marcelo-soares-dev/)
-- 🌎 [Portfólio](https://marcelo-soares.dev)
-- 📬 Email: marcelosoares@email.com
+  <!-- Seção Contatos -->
+  <div style="flex: 1; min-width: 250px;">
+    ### 🌐 Onde me encontrar
+    
+    - 💼 [LinkedIn](https://www.linkedin.com/in/marcelo-soares-dev/)
+    - 🌎 [Portfólio](https://marcelo-soares.dev)
+    - 📬 Email: marcelosoares@email.com
+  </div>
+</div>
