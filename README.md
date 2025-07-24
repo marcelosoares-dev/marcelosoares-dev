@@ -65,31 +65,15 @@ Sou desenvolvedor full stack com foco em soluções escaláveis e interfaces mod
 
 ---
 
-<div style="display: flex; flex-wrap: wrap; gap: 30px; justify-content: space-between; margin: 20px 0;">
-  <!-- Seção GitHub Stats -->
-  <div style="flex: 2; min-width: 400px; border-right: 2px solid #444; padding-right: 20px;">
-    ### 📊 GitHub Stats
-    
-    #### Marcelo Soares' GitHub Stats
-    - **Total Stars Earned:** 0  
-    - **Total Commits (2025):** 0  
-      - **Total PRs:** 0  
-      - **Total Issues:** 0  
-      - **Contributed to (last year):** 0  
-    
-    #### Most Used Languages
-    - JavaScript 42.88%  
-      - C# 38.15%  
-      - CSS 30.26%  
-      - HTML 11.68%
-  </div>
+### 📊 GitHub Stats
 
-  <!-- Seção Contatos -->
-  <div style="flex: 1; min-width: 250px; padding-left: 20px;">
-    ### 🌐 Onde me encontrar
-    
-    - 💼 [LinkedIn](https://www.linkedin.com/in/marcelo-soares-dev/)
-    - 🌎 [Portfólio](https://marcelo-soares.dev)
-    - 📬 Email: marcelosoares@email.com
-  </div>
-</div>
+![Marcelo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=marcelosoares-dev&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelosoares-dev&layout=compact&theme=radical)
+
+---
+
+### 🌐 Onde me encontrar
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/marcelo-soares-dev/)
+- 🌎 [Portfólio](https://marcelo-soares.dev)
+- 📬 Email: marcelosoares@email.com
