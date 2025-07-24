@@ -67,8 +67,10 @@ Sou desenvolvedor full stack com foco em soluções escaláveis e interfaces mod
 
 ### 📊 GitHub Stats
 
-![Marcelo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=marcelosoares-dev&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelosoares-dev&layout=compact&theme=radical)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcelosoares-dev&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelosoares-dev&layout=compact&theme=radical&hide_border=true" />
+</div>
 
 ---
 
