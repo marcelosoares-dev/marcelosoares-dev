@@ -2,11 +2,15 @@
 
 ### Software Engineer | Full Stack Specialist | Technical Lead at Xtekinn
 
+**🇧🇷 PT-BR:**
 Com mais de **10 anos de experiência** no desenvolvimento de software, foco na construção de sistemas robustos, escaláveis e arquitetura de infraestrutura. Atualmente, atuo como o executor técnico da **Xtekinn**, liderando a implementação de soluções full stack e automações de infraestrutura.
 
-- 🛠 **Foco Atual:** Automação de terminal, infraestrutura Cloud e sistemas de logística.
-- 🎓 **Educação:** Graduando em Inteligência Artificial e Análise e Desenvolvimento de Sistemas.
-- 🏢 **Experiência:** Histórico sólido em projetos governamentais (SUDEMA) e soluções corporativas complexas.
+**🇺🇸 EN-US:**
+With over **10 years of experience** in software development, I focus on building robust, scalable systems and infrastructure architecture. Currently, I serve as the technical lead at **Xtekinn**, leading the implementation of full stack solutions and infrastructure automation.
+
+- 🛠 **Foco Atual / Current Focus:** Automação de terminal, infraestrutura Cloud e sistemas de logística.
+- 🎓 **Educação / Education:** B.S. in Artificial Intelligence and Systems Analysis and Development.
+- 🏢 **Experiência / Experience:** Histórico sólido em projetos governamentais (SUDEMA) e soluções corporativas complexas.
 
 ---
 
@@ -21,7 +25,7 @@ Com mais de **10 anos de experiência** no desenvolvimento de software, foco na 
 
 ---
 
-### 🌐 Conecte-se comigo
+### 🌐 Conecte-se comigo / Connect with me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/marcelosoares-dev/)
 - 📧 [E-mail](mailto:seu-email@exemplo.com) 
