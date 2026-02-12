@@ -1,67 +1,23 @@
-## 👋 Olá! Eu sou o Marcelo Soares
+# 👋 Olá, eu sou o Marcelo Soares
 
-### Full Stack Developer • Especialista em aplicações web modernas
+### Software Engineer | Full Stack Specialist | Technical Lead at Xtekinn
 
-Sou desenvolvedor full stack com foco em soluções escaláveis e interfaces modernas. Tenho experiência sólida em projetos públicos e privados, atuando com tecnologias como React, Node.js, Django, Laravel, AWS e muito mais.
+Com mais de **10 anos de experiência** no desenvolvimento de software, foco na construção de sistemas robustos, escaláveis e arquitetura de infraestrutura. Atualmente, atuo como o executor técnico da **Xtekinn**, liderando a implementação de soluções full stack e automações de infraestrutura.
+
+- 🛠 **Foco Atual:** Automação de terminal, infraestrutura Cloud e sistemas de logística.
+- 🎓 **Educação:** Pós-graduando em Inteligência Artificial.
+- 🏢 **Experiência:** Histórico sólido em projetos governamentais (SUDEMA) e soluções corporativas complexas.
 
 ---
 
-### 💻 Tecnologias e Ferramentas
+### 💻 Tech Stack & Expertise
 
-<div align="center">
-<table>
-  <!-- Primeira Linha -->
-  <tr>
-    <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="80" /><br><b>React</b></td>
-    <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="80" /><br><b>Vue</b></td>
-    <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="80" /><br><b>Next.js</b></td>
-    <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="80" /><br><b>Angular</b></td>
-    <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="80" /><br><b>Tailwind</b></td>
-    <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="80" /><br><b>Sass</b></td>
-    <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="80" /><br><b>Bootstrap</b></td>
-  </tr>
-  <!-- Segunda Linha -->
-  <tr>
-    <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="80" /><br><b>MUI</b></td>
-    <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="80" /><br><b>Figma</b></td>
-    <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="80" /><br><b>JavaScript</b></td>
-    <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="80" /><br><b>TypeScript</b></td>
-    <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="80" /><br><b>Python</b></td>
-    <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="80" /><br><b>Kotlin</b></td>
-    <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="80" /><br><b>PHP</b></td>
-  </tr>
-  <!-- Terceira Linha -->
-  <tr>
-    <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" height="80" /><br><b>CodeIgniter</b></td>
-    <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="80" /><br><b>Node.js</b></td>
-    <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="80" /><br><b>Express</b></td>
-    <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" height="80" /><br><b>Django</b></td>
-    <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="80" /><br><b>Flask</b></td>
-    <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="80" /><br><b>Laravel</b></td>
-    <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="80" /><br><b>MongoDB</b></td>
-  </tr>
-  <!-- Quarta Linha -->
-  <tr>
-    <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="80" /><br><b>PostgreSQL</b></td>
-    <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="80" /><br><b>MySQL</b></td>
-    <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="80" /><br><b>Docker</b></td>
-    <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="80" /><br><b>AWS</b></td>
-    <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" height="80" /><br><b>Heroku</b></td>
-    <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" height="80" /><br><b>Netlify</b></td>
-    <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-line.svg" height="80" /><br><b>Vercel</b></td>
-  </tr>
-  <!-- Quinta Linha -->
-  <tr>
-    <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="80" /><br><b>GitHub</b></td>
-    <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg" height="80" /><br><b>GraphQL</b></td>
-    <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="80" /><br><b>Redux</b></td>
-    <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="80" /><br><b>Jest</b></td>
-    <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="80" /><br><b>Linux</b></td>
-    <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="80" /><br><b>Nginx</b></td>
-    <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" height="80" /><br><b>Prisma</b></td>
-  </tr>
-</table>
-</div>
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Backend** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white) |
+| **Infra & DevOps** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white) |
+| **Database** | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
 
 ---
 
@@ -74,8 +30,7 @@ Sou desenvolvedor full stack com foco em soluções escaláveis e interfaces mod
 
 ---
 
-### 🌐 Onde me encontrar
+### 🌐 Conecte-se comigo
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/marcelosoares-dev/)
-
-
+- 📧 [E-mail](mailto:seu-email@exemplo.com) - 🌍 [Portfolio](https://portfolio-delta-one-kd4sxqsmdk-vercel.app/)
