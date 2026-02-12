@@ -21,15 +21,6 @@ Com mais de **10 anos de experiência** no desenvolvimento de software, foco na 
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcelosoares-dev&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelosoares-dev&layout=compact&theme=radical&hide_border=true" />
-</div>
-
----
-
 ### 🌐 Conecte-se comigo
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/marcelosoares-dev/)
