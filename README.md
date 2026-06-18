@@ -5,8 +5,6 @@
 With over **10 years of experience** in software development, I focus on building robust, scalable systems and high-performance backend architectures. Acting as a hands-on technical leader, I am responsible for designing efficient Cloud environments and engineering reliable infrastructure solutions.
 
 - 🛠 **Current Focus:** Terminal automation, Cloud infrastructure, and high-performance distributed systems.
-- 🎓 **Education:** Pursuing postgraduate studies in Artificial Intelligence and an undergraduate degree in Systems Analysis and Development.
-- 🏢 **Track Record:** Solid background delivering government-level systems (SUDEMA) and complex enterprise solutions.
 
 ---
 
