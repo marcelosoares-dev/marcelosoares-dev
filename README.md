@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Marcelo Soares
 
-### Tech Lead & Senior Engineer | Backend & Infrastructure
+### Tech Lead & Senior Engineer | Backend & Infrastructure | Go • Rust • Python • Node.js • JavaScript • Docker
 
 With over **10 years of experience** in software development, I focus on building robust, scalable systems and high-performance backend architectures. Acting as a hands-on technical leader, I am responsible for designing efficient Cloud environments and engineering reliable infrastructure solutions.
 
