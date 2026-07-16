@@ -32,7 +32,7 @@ With over **10 years of experience** in software development, I focus on buildin
 
 ### 📊 GitHub Activity
 
-Aqui você pode acompanhar meu gráfico de commits e atividade diretamente no meu perfil logo abaixo, atualizado em tempo real pelo GitHub.
+You can track my contribution graph and development activity directly on my profile below, updated in real-time by GitHub.
 
 ---
 
