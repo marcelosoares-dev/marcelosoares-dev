@@ -32,10 +32,9 @@ With over **10 years of experience** in software development, I focus on buildin
 
 ### 📊 GitHub Activity & Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=marcelosoares-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelosoares-dev&layout=compact&theme=tokyonight&hide=html,css" alt="Linguagens Mais Usadas" height="180px" />
-</p>
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=marcelosoares-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelosoares-dev&layout=compact&theme=tokyonight&hide=html,css)
 
 ---
 
