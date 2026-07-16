@@ -30,11 +30,9 @@ With over **10 years of experience** in software development, I focus on buildin
 
 ---
 
-### 📊 GitHub Activity & Stats
+### 📊 GitHub Activity
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=marcelosoares-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
-
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelosoares-dev&layout=compact&theme=tokyonight&hide=html,css)
+Aqui você pode acompanhar meu gráfico de commits e atividade diretamente no meu perfil logo abaixo, atualizado em tempo real pelo GitHub.
 
 ---
 
