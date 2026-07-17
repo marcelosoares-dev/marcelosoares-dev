@@ -38,8 +38,7 @@ Com mais de **10 anos de experiência** no desenvolvimento de software, meu foco
 ### 📊 Atividade no GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcelosoares-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Marcelo" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelosoares-dev&layout=compact&theme=tokyonight&langs_count=6" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marcelosoares-dev&theme=tokyonight" alt="GitHub Streak" width="100%" />
 </p>
 
 ---
