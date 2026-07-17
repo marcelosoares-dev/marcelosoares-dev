@@ -47,4 +47,3 @@ With over **10 years of experience** in software development, I focus on buildin
 
 * 💼 [LinkedIn](https://www.linkedin.com/in/marcelosoares-dev/)
 * 📧 [E-mail](mailto:marcelosoaress.br@gmail.com)
-* 🌍 [Portfolio](https://portfolio-delta-one-kd4sxqsmdk-vercel.app/)
