@@ -37,12 +37,14 @@ With over **10 years of experience** in software development, I focus on buildin
 
 ### 📊 GitHub Activity
 
-You can track my contribution graph and development activity directly on my profile below, updated in real-time by GitHub.
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marcelosoares-dev&theme=tokyonight" alt="GitHub Streak" width="100%" />
+</p>
 
 ---
 
 ### 🌐 Connect with me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/marcelosoares-dev/)
-- 📧 [E-mail](mailto:marcelosoaress.br@gmail.com)
-- 🌍 [Portfolio](https://portfolio-delta-one-kd4sxqsmdk-vercel.app/)
+* 💼 [LinkedIn](https://www.linkedin.com/in/marcelosoares-dev/)
+* 📧 [E-mail](mailto:marcelosoaress.br@gmail.com)
+* 🌍 [Portfolio](https://portfolio-delta-one-kd4sxqsmdk-vercel.app/)
