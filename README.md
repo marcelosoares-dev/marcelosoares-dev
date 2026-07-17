@@ -47,4 +47,3 @@ Com mais de **10 anos de experiência** no desenvolvimento de software, meu foco
 
 * 💼 [LinkedIn](https://www.linkedin.com/in/marcelosoares-dev/)
 * 📧 [E-mail](mailto:marcelosoaress.br@gmail.com)
-* 🌍 [Portfólio](https://portfolio-delta-one-kd4sxqsmdk-vercel.app/)
