@@ -38,7 +38,7 @@ Com mais de **10 anos de experiência** no desenvolvimento de software, meu foco
 ### 📊 Atividade no GitHub
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marcelosoares-dev&theme=tokyonight" alt="GitHub Streak" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marcelosoares-dev&theme=tokyonight&locale=pt_br" alt="GitHub Streak" width="100%" />
 </p>
 
 ---
