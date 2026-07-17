@@ -1,14 +1,19 @@
-# 👋 Hi, I'm Marcelo Soares
+# 👋 Olá, eu sou o Marcelo Soares
 
-### Tech Lead & Senior Engineer | Backend & Infrastructure | Go • Rust • Python • Node.js • JavaScript • Docker
+### Tech Lead & Engenheiro Sênior | Backend & Infraestrutura | Go • Rust • Python • Node.js • JavaScript • Docker
 
-With over **10 years of experience** in software development, I focus on building robust, scalable systems and high-performance backend architectures. Acting as a hands-on technical leader, I am responsible for designing efficient Cloud environments and engineering reliable infrastructure solutions.
+<p align="center">
+  <a href="README.md"><img src="https://img.shields.io/badge/Português-🇧🇷-3178c6?style=for-the-badge" alt="Português"/></a>
+  <a href="README.en.md"><img src="https://img.shields.io/badge/English-🇺🇸-grey?style=for-the-badge" alt="English"/></a>
+</p>
 
-- 🛠 **Current Focus:** Terminal automation, Cloud infrastructure, and high-performance distributed systems.
+Com mais de **10 anos de experiência** no desenvolvimento de software, meu foco principal é a construção de sistemas robustos, escaláveis e arquiteturas de backend de alta performance. Atuando como um líder técnico focado na execução (hands-on), sou responsável pelo design de ambientes Cloud eficientes e engenharia de soluções de infraestrutura altamente confiáveis.
+
+- 🛠 **Foco Atual:** Automação de terminal, infraestrutura Cloud e sistemas distribuídos de alta performance.
 
 ---
 
-### 🛠️ Tech Stack & Expertise
+### 🛠️ Tech Stack & Especialidades
 
 #### Backend & Performance
 ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
@@ -17,27 +22,27 @@ With over **10 years of experience** in software development, I focus on buildin
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-#### Infrastructure & DevOps
+#### Infraestrutura & DevOps
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-#### Databases & Tools
+#### Bancos de Dados & Ferramentas
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![NeoVim](https://img.shields.io/badge/NeoVim-%2357A143.svg?style=for-the-badge&logo=neovim&logoColor=white)
 
 ---
 
-### 📊 GitHub Activity
+### 📊 Atividade no GitHub
 
-You can track my contribution graph and development activity directly on my profile below, updated in real-time by GitHub.
+Você pode acompanhar meu gráfico de contribuições e atividades de desenvolvimento diretamente no meu perfil abaixo, atualizado em tempo real pelo GitHub.
 
 ---
 
-### 🌐 Connect with me
+### 🌐 Conecte-se Comigo
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/marcelosoares-dev/)
 - 📧 [E-mail](mailto:marcelosoaress.br@gmail.com)
-- 🌍 [Portfolio](https://portfolio-delta-one-kd4sxqsmdk-vercel.app/)
+- 🌍 [Portfólio](https://portfolio-delta-one-kd4sxqsmdk-vercel.app/)
