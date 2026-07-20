@@ -7,9 +7,9 @@
   <a href="README.en.md"><img src="https://img.shields.io/badge/English-🇺🇸-grey?style=for-the-badge" alt="English"/></a>
 </p>
 
-Com mais de **10 anos de experiência** no desenvolvimento de software, meu foco principal é a construção de sistemas robustos, escaláveis e arquiteturas de backend de alta performance. Atuando como um líder técnico focado na execução (hands-on), sou responsável pelo design de ambientes Cloud eficientes e engenharia de soluções de infraestrutura altamente confiáveis.
+Com mais de **10 anos de experiência** no desenvolvimento de software, meu foco é a construção de sistemas robustos e arquiteturas de backend de alta performance. Como líder técnico focado em execução (hands-on), desenho ambientes Cloud eficientes e engenharia de soluções de infraestrutura altamente confiáveis.
 
-- 🛠 **Foco Atual:** Automação de terminal, infraestrutura Cloud e sistemas distribuídos de alta performance.
+🛠 **Foco Atual:** Automação de terminal, infraestrutura Cloud e sistemas distribuídos de alta performance.
 
 ---
 
