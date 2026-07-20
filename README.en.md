@@ -7,9 +7,9 @@
   <a href="README.en.md"><img src="https://img.shields.io/badge/English-🇺🇸-3178c6?style=for-the-badge" alt="English"/></a>
 </p>
 
-With over **10 years of experience** in software development, I focus on building robust, scalable systems and high-performance backend architectures. Acting as a hands-on technical leader, I am responsible for designing efficient Cloud environments and engineering reliable infrastructure solutions.
+With over **10 years of experience** in software development, my focus is on building robust systems and high-performance backend architectures. As a hands-on technical leader, I design efficient Cloud environments and engineer highly reliable infrastructure solutions.
 
-- 🛠 **Current Focus:** Terminal automation, Cloud infrastructure, and high-performance distributed systems.
+🛠 **Current Focus:** Terminal automation, Cloud infrastructure, and high-performance distributed systems.
 
 ---
 
